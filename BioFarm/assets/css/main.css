@@ -31,6 +31,9 @@ body {
 body img {
   max-width: 100%;
 }
+.box-right{
+  margin-left: auto;
+}
 
 a {
   cursor: pointer;
