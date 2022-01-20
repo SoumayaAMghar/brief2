@@ -3006,3 +3006,6 @@ table.order-details tbody td {
 .promo-container div {
 margin: 0 auto;
 }
+.div2{
+  display: flex;
+}
